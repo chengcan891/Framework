@@ -1,0 +1,4 @@
+snap：Child View滚动比例的一个吸附效果。也就是说，Child View不会存在局部显示的情况，滚动Child View的部分高度，当我们松开手指时，Child View要么向上全部滚出屏幕，测试的时候有不成功的情况。
+
+
+https://www.jianshu.com/p/bbc703a0015e

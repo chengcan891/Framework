@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ink.chengcan.home" >
+
+    <application>
+        <activity android:name=".retrofit.RetrofitActivity" android:label="Retrofit"/>
+        <activity android:name=".toolbar.ToolbarActivity" android:label="Toolbar"/>
+        <activity android:name=".toolbar.ExtendToolbarActivity" android:theme="@style/NoActionBarTheme" android:label="ExtendToolbar"/>
+    </application>
+</manifest>

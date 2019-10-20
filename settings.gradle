@@ -1,0 +1,1 @@
+include ':app', ':module_home', ':module_main', ':lib_base', ':module_hybrid', ':module_weixin', ':module_pattern'
